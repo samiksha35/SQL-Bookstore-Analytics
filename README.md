@@ -32,6 +32,10 @@ I wrote raw SQL queries to explore:
 
 
 ---
+## 📸 Screenshots
+
+
+---
 
 ## 🚀 Sample Queries
 
