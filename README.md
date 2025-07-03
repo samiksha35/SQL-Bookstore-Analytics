@@ -36,7 +36,7 @@ I wrote raw SQL queries to explore:
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/eer_diagram.png
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/highest%20spending%20customer.png
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/remaining%20stock.png
-
+https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/top%20selling%20book.png
 
 
 ---
