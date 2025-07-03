@@ -124,7 +124,7 @@ on o.Customer_ID = c.Customer_ID
 group by o.Customer_ID, c.Name
 having count(o.Order_ID) >= 2;
 
-#4) Find the most frequently ordered book
+#4) Top selling book
 select b.Title, o.Book_ID, count(o.Order_ID)
 from Books as b
 join Orders as o 
@@ -167,7 +167,7 @@ limit 1;
 
 #9) Calculate the stock remaining after fulfilling all orders
 select b.Title, b.Book_ID, b.Stock, coalesce(sum(Quantity),0) as order_quantity,
- b.Stock-coalesce(sum(Quantity),0) as order_quantity
+ b.Stock-coalesce(sum(Quantity),0) as remaining quantity
  from Books b
  left join Orders o 
  on b.Book_ID = o.Book_ID
