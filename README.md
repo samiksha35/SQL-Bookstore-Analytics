@@ -1,10 +1,10 @@
-# SQL Bookstore Analysis 📚
+# SQL Bookstore Analysis 
 
 This is a beginner-friendly SQL project where I created and analyzed a mock **Online Bookstore** database using **MySQL Workbench**.
 
 ---
 
-## 📌 Datasets & Tables
+## Datasets & Tables
 - **Books**
 - **Customers**
 - **Orders**
@@ -16,14 +16,14 @@ I wrote raw SQL queries to explore:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - MySQL Workbench (local setup)
 - SQL (DDL + DML queries)
 - CSV-style data import (manual)
 
 ---
 
-## ✅ Skills Showcased
+## Skills Showcased
 - Relational Schema Design (Primary Keys, Foreign Keys)
 - SQL Joins, Aggregations, GROUP BY, HAVING
 - Business-focused querying (sales, revenue, stock, loyalty)
@@ -32,7 +32,7 @@ I wrote raw SQL queries to explore:
 
 
 ---
-## 📸 Screenshots
+## Screenshots
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/eer_diagram.png
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/highest%20spending%20customer.png
 https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/remaining%20stock.png
@@ -41,7 +41,7 @@ https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/top%20selling%20
 
 ---
 
-## 🚀 Sample Queries
+## Sample Queries
 
 ```sql
 -- Top 3 best-selling genres
