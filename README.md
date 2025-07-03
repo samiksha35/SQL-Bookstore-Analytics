@@ -33,6 +33,7 @@ I wrote raw SQL queries to explore:
 
 ---
 ## 📸 Screenshots
+https://github.com/samiksha35/SQL-Bookstore-Analytics/blob/main/eer_diagram.png
 
 
 ---
